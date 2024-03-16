@@ -5,9 +5,21 @@
         "dev": "vite",
         "build": "vite build"
     },
+    "dependencies": {
+        "feather-icons": "^4.29.0",
+        "magicmouse.js": "^1.2.1",
+        "typed.js": "^2.0.15",
+        "vue": "^3.2.47",
+        "vue-feather": "^2.0.0",
+        "vue-router": "^4.1.6"
+    },
     "devDependencies": {
+        "@vitejs/plugin-vue": "^4.1.0",
+        "autoprefixer": "^10.4.17",
         "axios": "^1.6.4",
         "laravel-vite-plugin": "^1.0.0",
+        "postcss": "^8.4.33",
+        "tailwindcss": "^3.4.1",
         "vite": "^5.0.0"
     }
 }

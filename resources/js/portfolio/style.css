@@ -1,0 +1,24 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+*:hover {
+  cursor: none;
+}
+
+#magicPointer {
+  z-index: 9999999;
+}
+
+#magicMouseCursor {
+  z-index: 9999999;
+  transition: transform 0.1s, width 0.3s, height 0.3s !important;
+}
+
+html.light #magicMouseCursor {
+  border: 1px solid black;
+}
+
+html.light #magicPointer {
+  background-color: black;
+}
