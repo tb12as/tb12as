@@ -1,1 +1,1 @@
-![tb12as's Streak](https://github-readme-streak-stats.herokuapp.com/?user=tb12as&theme=tokyonight&hide_border=true)
+![tb12as's Streak](https://github-readme-streak-stats.herokuapp.com/?user=tb12as&theme=dark&background=22232e&border=22232e&ring=ffffff&fire=ffffff&currStreakLabel=ffffff&card_width=600&hide_border=true)
