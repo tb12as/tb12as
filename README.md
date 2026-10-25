@@ -1,1 +1,5 @@
-![tb12as's Streak](https://github-readme-streak-stats.herokuapp.com/?user=tb12as&theme=dark&background=22232e&border=22232e&ring=ffffff&fire=ffffff&currStreakLabel=ffffff&card_width=600&hide_border=true)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tb12as/tb12as/main/streak-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tb12as/tb12as/main/streak-light.svg">
+  <img alt="tb12as's streak" src="https://raw.githubusercontent.com/tb12as/tb12as/main/streak-dark.svg">
+</picture>
