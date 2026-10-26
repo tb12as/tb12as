@@ -21,17 +21,17 @@ text{font-family:"Segoe UI",Ubuntu,"Helvetica Neue",sans-serif;fill:#1f2328}
 <g class="f">
 <text x="24" y="36" class="k">CURRENT STREAK</text>
 <g transform="translate(22,52) scale(1.6)"><path class="fire" style="fill:#0969da" d="M13.5.67s.74 2.65.74 4.8c0 2.06-1.35 3.73-3.41 3.73-2.07 0-3.63-1.67-3.63-3.73l.03-.36C5.21 7.51 4 10.62 4 14c0 4.42 3.58 8 8 8s8-3.58 8-8C20 8.61 17.41 3.8 13.5.67zM11.71 19c-1.78 0-3.22-1.4-3.22-3.14 0-1.62 1.05-2.76 2.81-3.12 1.77-.36 3.6-1.21 4.62-2.58.39 1.29.59 2.65.59 4.04 0 2.65-2.15 4.8-4.8 4.8z"/></g>
-<text x="68" y="88"><tspan font-size="46" font-weight="700" style="fill:#0969da">8</tspan><tspan dx="8" font-size="16" style="fill:#59636e">days</tspan></text>
-<text x="24" y="112" class="d">Oct 18 - Oct 25</text>
+<text x="68" y="88"><tspan font-size="46" font-weight="700" style="fill:#0969da">9</tspan><tspan dx="8" font-size="16" style="fill:#59636e">days</tspan></text>
+<text x="24" y="112" class="d">Oct 18 - Oct 26</text>
 </g>
 <g class="f" style="animation-delay:.15s">
 <rect x="24" y="128" width="462" height="6" rx="3" class="t0"/>
-<rect class="g" x="24" y="128" width="184" height="6" rx="3" fill="url(#a)"/>
-<text x="24" y="158" class="d">13 more to beat your best of 20 days</text>
+<rect class="g" x="24" y="128" width="207" height="6" rx="3" fill="url(#a)"/>
+<text x="24" y="158" class="d">12 more to beat your best of 20 days</text>
 </g>
 <g class="f" style="animation-delay:.25s">
 <text x="534" y="36" class="k">TOTAL CONTRIBUTIONS</text>
-<text x="534" y="66" class="m">7,853</text>
+<text x="534" y="66" class="m">7,859</text>
 <text x="534" y="84" class="d">since Oct 13, 2019</text>
 </g>
 <g class="f" style="animation-delay:.35s">
@@ -69,5 +69,5 @@ text{font-family:"Segoe UI",Ubuntu,"Helvetica Neue",sans-serif;fill:#1f2328}
 <rect class="b t3" style="animation-delay:1150ms" x="743" y="207" width="17" height="19" rx="3"><title>2026-10-23: 30</title></rect>
 <rect class="b t1" style="animation-delay:1175ms" x="765" y="219" width="17" height="7" rx="3"><title>2026-10-24: 8</title></rect>
 <rect class="b t2" style="animation-delay:1200ms" x="787" y="214" width="17" height="12" rx="3"><title>2026-10-25: 16</title></rect>
-<rect class="b t0" style="animation-delay:1225ms" x="809" y="223" width="17" height="3" rx="3"><title>2026-10-26: 0</title></rect>
+<rect class="b t1" style="animation-delay:1225ms" x="809" y="220" width="17" height="6" rx="3"><title>2026-10-26: 6</title></rect>
 </svg>
